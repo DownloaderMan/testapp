@@ -1,6 +1,6 @@
 import React from 'react';
 import { client } from '../LIB/client';
-import {Product, FooterBanner, HeroBanner} from '../components'
+import {Product, FooterBanner, HeroBanner} from '../components';
 
 
 export const Home = ({products, bannerData}) => {
